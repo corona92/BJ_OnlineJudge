@@ -1,1 +1,1 @@
-# BJ_OnlineJudge
+# OnlineJudge
